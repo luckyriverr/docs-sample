@@ -1,0 +1,5 @@
+# cf. https://github.com/DavidAnson/markdownlint#optionsconfig
+default: true
+
+# ignore line length
+MD013: false
